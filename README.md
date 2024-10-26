@@ -49,5 +49,5 @@ This project introduces **Quantum Neural Networks (QNNs)** to analyze **genomic 
 
 ---
 
-###TESTING:
+### TESTING:
 ![QNNGPD](qnaccuracy.webp)
