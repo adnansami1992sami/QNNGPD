@@ -48,3 +48,6 @@ This project introduces **Quantum Neural Networks (QNNs)** to analyze **genomic 
 4. **Prediction & Output**: Display disease risks, drug suggestions, and lifestyle recommendations.
 
 ---
+
+TESTING:
+![QNNGPD](qnaccuracy.webp)
