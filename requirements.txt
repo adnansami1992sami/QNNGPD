@@ -1,0 +1,14 @@
+pennylane
+scikit-learn
+openvino-dev
+pandas
+numpy
+onnx
+skl2onnx
+joblib
+onnx
+onnxruntime
+fastatocsv
+torch
+imbalanced-learn
+skorch
