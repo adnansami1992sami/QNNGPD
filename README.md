@@ -50,4 +50,4 @@ This project introduces **Quantum Neural Networks (QNNs)** to analyze **genomic 
 ---
 
 ### TESTING:
-![QNNGPD](qnaccuracy.webp)
+![QNNGPD](https://github.com/adnansami1992sami/QNNGPD/blob/main/Normal%20vs%20AIPC%20enchanced%20matrixes.png)
